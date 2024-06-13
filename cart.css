@@ -1,0 +1,44 @@
+body{
+    background-color:  rgb(247, 247, 245);
+}
+.order{
+    background-color: white;
+    width: 50%;
+}
+.thank{
+    background-color: rgb(222, 238, 198);
+}
+.image1{
+    height: 200px;
+    width: 200px;
+}
+.container12 {
+    margin-top: 70px;
+    width: 100%;
+  
+    background-color: rgb(85, 84, 84);
+    color: white;
+    padding: 50px;
+  }
+  .sub {
+    background-color:  rgb(216, 231, 203) ;
+    color:black;
+    border: none;
+  }
+  .item4 {
+    color: white !important;
+  }
+  .button{
+    border: none;
+    background-color: rgb(216, 231, 203) ;
+  }
+  .button:hover,.sub:hover{
+    background-color: #b8e993; 
+    color: black;
+  }
+  @media screen and (max-width:600px) {
+    .image1 {
+      margin-left: -50px;
+    }
+  } 
+  

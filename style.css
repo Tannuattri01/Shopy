@@ -1,0 +1,146 @@
+.shop {
+  padding-right: 645px;
+}
+.image {
+  width: 100% !important;
+  object-fit: fill;
+}
+.image_container {
+  padding: 0;
+}
+.imageContent {
+  position: relative;
+  bottom: 100px;
+}
+.cotton {
+  color: white;
+}
+
+.image1 {
+  object-fit: fill;
+  width: 100%;
+  align-items: end;
+}
+.look {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.look1 {
+  display: flex;
+  justify-content: center;
+}
+.blazzerDiv{
+    position: relative;
+}
+.blazzer, .shirt{
+    height: 61px;
+    width: 85%;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    padding: 10px;
+    background-color: white;
+}
+.black,.dollar{
+    margin: 0;
+}
+.view{
+    display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  text-decoration: underline;
+}
+.image2{
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+.tag{
+  color: black;
+}
+.main{
+    position: relative;
+}
+.Jewelery{
+    width: 320px;
+    position: absolute;
+    left: 296px;
+    bottom: 23px;
+    padding: 10px;
+    background-color: white;
+}
+.now2{
+    text-decoration: underline;
+    color: rgb(96, 95, 95);
+}
+.gold{
+    color: rgb(105, 105, 105); ;
+}
+.trending{
+   margin-left: 286px;
+ 
+}
+.the{
+    margin-top: 142px;
+    margin-left: 286px;
+   
+}
+.image3{
+    width: 400px;
+    height: 500px;
+}
+.topdiv{
+    position: relative;
+}
+.brand{
+    height: 61px;
+    width: 90%;
+    position: absolute;
+    left: 22px;
+    bottom: 20px;
+    padding: 4px;
+    background-color: white;
+    text-align: start;
+}
+.dollar1{
+ position: relative;
+ left: 278px;
+ bottom: 33px;
+ width: 26%;
+}
+.container12{
+    margin-top: 70px;
+  width: 100%;
+ 
+  background-color: rgb(85, 84, 84);
+  color: white;
+  padding: 50px;
+}
+.sub{
+    background-color: rgb(112, 165, 147);
+    
+    border: none;
+}
+.item4{
+    color: white !important; 
+}
+@media screen and (max-width:800px){
+  .Jewelery{
+    position: relative;
+    left: 60px;
+  }
+}
+@media screen and(max-width:470px){
+  .look_items{
+    position: relative;
+    left: 60px;
+  }
+}
+.body_part{
+   background-color: rgb(241, 241, 231) !important;
+}
+.sub:hover{
+  background-color:rgb(101, 165, 144);
+  color: black;
+}
